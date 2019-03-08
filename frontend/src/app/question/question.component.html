@@ -1,0 +1,32 @@
+<mat-card>Simple card
+  <mat-card-title>
+    <span *ngIf="question.id">Edit Questions</span>
+    <span *ngIf="!question.id">New Question</span>
+  </mat-card-title>
+  <br>
+  <mat-card-content>
+    <form>
+      <mat-form-field class="example-full-width">
+        <textarea [(ngModel)]="question.text" name="question" matInput placeholder="Question"></textarea>
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+        <textarea [(ngModel)]="question.correctAnswer" name="correctAnswer" matInput placeholder="Correct Answer"></textarea>
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+        <textarea [(ngModel)]="question.answer1" name="answer1" matInput placeholder="Wrong Answer 1"></textarea>
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+        <textarea [(ngModel)]="question.answer2" name="answer2" matInput placeholder="Wrong Answer 2"></textarea>
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+        <textarea [(ngModel)]="question.answer3" name="answer3" matInput placeholder="Wrong Answer 3"></textarea>
+      </mat-form-field>
+    </form>
+
+    
+  </mat-card-content>
+
+  <button mat-raised-button color="primary" *ngIf="!question.id" (click)="post(question)">Post</button>
+  <button mat-raised-button color="primary" *ngIf="question.id" (click)="put(question)">Edit</button>
+  <button mat-raised-button color="primary" *ngIf="question.id" (click)="question = {}">New</button>
+</mat-card>

@@ -1,0 +1,14 @@
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.2\quizBackend.deps.json
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.2\quizBackend.runtimeconfig.json
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.2\quizBackend.runtimeconfig.dev.json
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.2\quizBackend.dll
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.2\quizBackend.csprojAssemblyReference.cache
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.2\quizBackend.csproj.CoreCompileInputs.cache
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.2\quizBackend.RazorAssemblyInfo.cache
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.2\quizBackend.RazorAssemblyInfo.cs
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.2\quizBackend.AssemblyInfoInputs.cache
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.2\quizBackend.AssemblyInfo.cs
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.2\quizBackend.RazorTargetAssemblyInfo.cache
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\bin\Debug\netcoreapp2.2\quizBackend.pdb
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.2\quizBackend.dll
+C:\Users\splum\Documents\Code\LinkedInLearning\AngularASPDotNet-AlexZanfir\angularQuiz\quizBackend\quizBackend\obj\Debug\netcoreapp2.2\quizBackend.pdb
